@@ -1,0 +1,7 @@
+vendor/*
+!vendor/vendor.json
+
+img/*
+!img/.gitkeep
+
+go-thumbor

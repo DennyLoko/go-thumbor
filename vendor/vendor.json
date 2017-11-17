@@ -1,0 +1,163 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "mHs4e/Kz6QntAx/swjN8xNYNyVY=",
+			"path": "github.com/disintegration/gift",
+			"revision": "6844aa0778953d7137510a1c74f686ae0e556600",
+			"revisionTime": "2017-10-26T20:55:04Z"
+		},
+		{
+			"checksumSHA1": "DM+Q4ZvftqPHirfafFRmyfowNMQ=",
+			"path": "github.com/pierrre/githubhook",
+			"revision": "3acdf4750b1226a2297e1736adc7244115edb3c6",
+			"revisionTime": "2017-10-21T00:31:33Z"
+		},
+		{
+			"checksumSHA1": "bk8CrTH7+obwEpqFKmRTjiJXB1w=",
+			"path": "github.com/pierrre/imageserver",
+			"revision": "5c91e11ebdb3cdf57276b51a61da886027ed9835",
+			"revisionTime": "2017-10-21T00:31:33Z"
+		},
+		{
+			"checksumSHA1": "UQevo5ANAAVup4vc6JMrlFsZKdA=",
+			"path": "github.com/pierrre/imageserver/cache",
+			"revision": "5c91e11ebdb3cdf57276b51a61da886027ed9835",
+			"revisionTime": "2017-10-21T00:31:33Z"
+		},
+		{
+			"checksumSHA1": "+rrZH1L2JnXJlpIoLdTJUE7Sm9A=",
+			"path": "github.com/pierrre/imageserver/cache/memory",
+			"revision": "5c91e11ebdb3cdf57276b51a61da886027ed9835",
+			"revisionTime": "2017-10-21T00:31:33Z"
+		},
+		{
+			"checksumSHA1": "HL1nVjj9Srq/sDWOKkYJbat1gAc=",
+			"path": "github.com/pierrre/imageserver/http",
+			"revision": "5c91e11ebdb3cdf57276b51a61da886027ed9835",
+			"revisionTime": "2017-10-21T00:31:33Z"
+		},
+		{
+			"checksumSHA1": "29u1uRL60iB2li6bv9k2rMArMpw=",
+			"path": "github.com/pierrre/imageserver/http/crop",
+			"revision": "5c91e11ebdb3cdf57276b51a61da886027ed9835",
+			"revisionTime": "2017-10-21T00:31:33Z"
+		},
+		{
+			"checksumSHA1": "T5M73QyUMS+8rf3AXGEnNPcHkuU=",
+			"path": "github.com/pierrre/imageserver/http/gamma",
+			"revision": "5c91e11ebdb3cdf57276b51a61da886027ed9835",
+			"revisionTime": "2017-10-21T00:31:33Z"
+		},
+		{
+			"checksumSHA1": "Wk3UKVEZ86NBWUTgOgFPTRX7XUo=",
+			"path": "github.com/pierrre/imageserver/http/gift",
+			"revision": "5c91e11ebdb3cdf57276b51a61da886027ed9835",
+			"revisionTime": "2017-10-21T00:31:33Z"
+		},
+		{
+			"checksumSHA1": "jGU26FHKHm1NsBOx0Bpe3J9yl5Q=",
+			"path": "github.com/pierrre/imageserver/http/image",
+			"revision": "5c91e11ebdb3cdf57276b51a61da886027ed9835",
+			"revisionTime": "2017-10-21T00:31:33Z"
+		},
+		{
+			"checksumSHA1": "IRtvTbdBHeteVRNmfQXikmpLPZs=",
+			"path": "github.com/pierrre/imageserver/image",
+			"revision": "5c91e11ebdb3cdf57276b51a61da886027ed9835",
+			"revisionTime": "2017-10-21T00:31:33Z"
+		},
+		{
+			"checksumSHA1": "T27gRnel8j3DyoJdT+67EDFxL6o=",
+			"path": "github.com/pierrre/imageserver/image/bmp",
+			"revision": "5c91e11ebdb3cdf57276b51a61da886027ed9835",
+			"revisionTime": "2017-10-21T00:31:33Z"
+		},
+		{
+			"checksumSHA1": "OdvfOdFNSJpUHxOErXKSaXkPxxo=",
+			"path": "github.com/pierrre/imageserver/image/crop",
+			"revision": "5c91e11ebdb3cdf57276b51a61da886027ed9835",
+			"revisionTime": "2017-10-21T00:31:33Z"
+		},
+		{
+			"checksumSHA1": "QIon5cCjAl597IhAqM0m3Qw9xeI=",
+			"path": "github.com/pierrre/imageserver/image/gamma",
+			"revision": "5c91e11ebdb3cdf57276b51a61da886027ed9835",
+			"revisionTime": "2017-10-21T00:31:33Z"
+		},
+		{
+			"checksumSHA1": "jZBONwaTpVAuobWZC5sK1r0wf8U=",
+			"path": "github.com/pierrre/imageserver/image/gif",
+			"revision": "5c91e11ebdb3cdf57276b51a61da886027ed9835",
+			"revisionTime": "2017-10-21T00:31:33Z"
+		},
+		{
+			"checksumSHA1": "2nP9cfMqmskmbIAF2hTeDdR12NA=",
+			"path": "github.com/pierrre/imageserver/image/gift",
+			"revision": "5c91e11ebdb3cdf57276b51a61da886027ed9835",
+			"revisionTime": "2017-10-21T00:31:33Z"
+		},
+		{
+			"checksumSHA1": "szWTro3lDFOnejXreFgT8ZkyDv4=",
+			"path": "github.com/pierrre/imageserver/image/internal",
+			"revision": "5c91e11ebdb3cdf57276b51a61da886027ed9835",
+			"revisionTime": "2017-10-21T00:31:33Z"
+		},
+		{
+			"checksumSHA1": "EvpCTkDBZ+pQ8mH1AuZwU5pWDwE=",
+			"path": "github.com/pierrre/imageserver/image/jpeg",
+			"revision": "5c91e11ebdb3cdf57276b51a61da886027ed9835",
+			"revisionTime": "2017-10-21T00:31:33Z"
+		},
+		{
+			"checksumSHA1": "XA5nJRGcmUFnbFF9IZSTr8HCJ+s=",
+			"path": "github.com/pierrre/imageserver/image/png",
+			"revision": "5c91e11ebdb3cdf57276b51a61da886027ed9835",
+			"revisionTime": "2017-10-21T00:31:33Z"
+		},
+		{
+			"checksumSHA1": "BB7t+I3NTeQbQe+aaqIQDXVPveo=",
+			"path": "github.com/pierrre/imageserver/image/tiff",
+			"revision": "5c91e11ebdb3cdf57276b51a61da886027ed9835",
+			"revisionTime": "2017-10-21T00:31:33Z"
+		},
+		{
+			"checksumSHA1": "GT7hmRdj2Fv5aiIMkui1YtJ1HcA=",
+			"path": "github.com/pierrre/imageserver/source",
+			"revision": "5c91e11ebdb3cdf57276b51a61da886027ed9835",
+			"revisionTime": "2017-10-21T00:31:33Z"
+		},
+		{
+			"checksumSHA1": "CsynQQLbJD8UpehrR8/di8nz9Y8=",
+			"path": "github.com/pierrre/imageutil",
+			"revision": "dd32da560bed7f6355ca4e131242fe140ee35956",
+			"revisionTime": "2017-02-18T19:09:53Z"
+		},
+		{
+			"checksumSHA1": "/5iWYoeM8SbeVQMJCtiTq2IvnfQ=",
+			"path": "github.com/pierrre/lrucache",
+			"revision": "f5fef57338044bdf1b323cc8d1a57b23605da630",
+			"revisionTime": "2015-03-02T14:38:20Z"
+		},
+		{
+			"checksumSHA1": "UD/pejajPyS7WaWVXq2NU1eK4Ic=",
+			"path": "golang.org/x/image/bmp",
+			"revision": "f7e31b4ea2e3413ab91b4e7d2dc83e5f8d19a44c",
+			"revisionTime": "2017-09-30T09:09:42Z"
+		},
+		{
+			"checksumSHA1": "SmD/LkP3vgBGPKT6I38wH7Jb6QI=",
+			"path": "golang.org/x/image/tiff",
+			"revision": "f7e31b4ea2e3413ab91b4e7d2dc83e5f8d19a44c",
+			"revisionTime": "2017-09-30T09:09:42Z"
+		},
+		{
+			"checksumSHA1": "PF6VjvpNpOdR8epWH1Liyy7x1Qg=",
+			"path": "golang.org/x/image/tiff/lzw",
+			"revision": "f7e31b4ea2e3413ab91b4e7d2dc83e5f8d19a44c",
+			"revisionTime": "2017-09-30T09:09:42Z"
+		}
+	],
+	"rootPath": "github.com/DennyLoko/go-thumbor"
+}
